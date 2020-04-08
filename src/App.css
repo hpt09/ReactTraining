@@ -1,0 +1,47 @@
+
+
+p {
+  color: red
+}
+
+.button {
+  background-color:blue;
+  color:white;
+  border-radius:10px;
+  width:100px;
+  height:30px;
+}
+
+.outer {  
+  text-align: center;
+  margin-top: 20px;
+  margin-left: 20px;
+  margin-right: 20px;
+  border-style: solid;
+}
+
+.inner {
+  margin-left: 50px;
+  margin-right: 50px;
+  border-style: solid;
+}
+
+h4 {
+  padding-bottom: 20px;
+}
+
+
+span{
+  font-weight: bold;
+  margin-top: 50px;
+}
+
+th{
+  background-color: rgb(38, 38, 235);
+  color: white;
+}
+
+tbody{
+  background-color: lightgrey;
+  
+}
